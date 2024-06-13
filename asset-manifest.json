@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medical-dictionary/static/css/main.9ff233ea.css",
+    "main.js": "/medical-dictionary/static/js/main.e12d7a91.js",
+    "index.html": "/medical-dictionary/index.html",
+    "main.9ff233ea.css.map": "/medical-dictionary/static/css/main.9ff233ea.css.map",
+    "main.e12d7a91.js.map": "/medical-dictionary/static/js/main.e12d7a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff233ea.css",
+    "static/js/main.e12d7a91.js"
+  ]
+}
